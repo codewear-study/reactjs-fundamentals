@@ -1,0 +1,11 @@
+.detail {
+    margin: auto;
+    width: 90%;
+    padding-top: 100px;
+}
+
+.detail img {
+    border-color: #ffff00;
+    border-width: 10px;
+    border: solid;
+}
